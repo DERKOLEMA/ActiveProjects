@@ -88,3 +88,19 @@
   * Chat spam message - spams the chat ~ WIP
   * Include invite ~ WIP
   * Spammming ~ WIP
+
+# [Ukraine Roleplay](https://www.roblox.com/games/9504139763/)
+
+[Main]
+* Delete map
+* Surrender all
+* Kick all
+* Load acs utility
+* Load sound changer
+
+# [War call](https://www.roblox.com/games/9202781111/)
+
+[Main]
+* Stress the game
+* Copy discord invite
+* Anticheat bypass
