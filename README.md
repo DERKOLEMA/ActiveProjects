@@ -1,6 +1,8 @@
 ```lua
 _G.anti_lag_others = false -- (эксперементальная функция) поставьте на true если хотите избежать крашей от остальных пользователей
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/ActiveProjects/main/Rp_Games/Loader.lua"))()```
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/ActiveProjects/main/Rp_Games/Loader.lua"))()
+```
+
 # [Russia Roleplay](https://www.roblox.com/games/5817894209/)
 
 [Money engine]
