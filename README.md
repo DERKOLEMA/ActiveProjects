@@ -23,13 +23,6 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
   * Criminal factions spawn teleports (Bandits, Kyiv, Nobarsk, Kavkaz, Yakuza)
   * State factions teleport (Army, MVD, FSB)
   * Misc zones teleport (Bank, Bank inside)
-  * Anti fire (Stops you from continuing to burn after you step out of the fire)
-  * Fullbright (Brightens everything within the game so you can see)
-  * Infinite stamina (Lets you run as long as you want/Hit as long as you want)
-  * No smoke (Removes smokes whenever thrown)
-  * No flash (Removes the flash effects whenever flashed)
-  * No jump cooldown (Removes the jump cooldown within the game)
-  * Always swim (Kind of a fun feature, just lets you swim around as much as you want)
 
 [Useful engine]
   * Admin detector (Kicks you upon the join of an admin)
