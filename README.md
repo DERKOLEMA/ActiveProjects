@@ -98,6 +98,7 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 # [War call](https://www.roblox.com/games/9202781111/)
 
 [Main]
+* Anticheat bypass
+* Play custom music
 * Stress the game
 * Copy discord invite
-* Anticheat bypass
