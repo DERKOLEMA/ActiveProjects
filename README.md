@@ -117,4 +117,3 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 * Teleport to facility
 * No jump cooldown
 * Make strong weapons
-* Kick all
