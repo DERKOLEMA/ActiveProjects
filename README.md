@@ -102,3 +102,10 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 * Play custom music
 * Stress the game
 * Copy discord invite
+
+# [Innsbruck Border Simulator](https://www.roblox.com/games/3425283855/)
+
+[Main]
+* Get FE btools
+* Destroy map
+* Kick all
