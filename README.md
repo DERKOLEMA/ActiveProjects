@@ -109,3 +109,12 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 * Get FE btools
 * Destroy map
 * Kick all
+
+# [Вирус RP](https://www.roblox.com/games/5817894209/)
+
+[Main]
+* Teleport to guns
+* Teleport to facility
+* No jump cooldown
+* Make strong weapons
+* Kick all
