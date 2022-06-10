@@ -115,5 +115,4 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 [Main]
 * Teleport to guns
 * Teleport to facility
-* No jump cooldown
 * Make strong weapons
