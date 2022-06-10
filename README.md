@@ -110,7 +110,7 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 * Destroy map
 * Kick all
 
-# [Вирус RP](https://www.roblox.com/games/5817894209/)
+# [Вирус RP](https://www.roblox.com/games/6555084601/)
 
 [Main]
 * Teleport to guns
