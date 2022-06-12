@@ -116,3 +116,18 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/Active
 * Teleport to guns
 * Teleport to facility
 * Make strong weapons
+
+# [War simulator](https://www.roblox.com/games/9668940935/)
+
+[Main]
+* Stress the server
+* Copy discord invite
+
+# [Crime City RolePlay](https://www.roblox.com/games/8564863980/)
+
+[Main]
+* Delete map
+* Surrender all
+* Kick all
+* Load acs utility
+* Load sound changer
