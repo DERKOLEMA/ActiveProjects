@@ -1,4 +1,5 @@
 ```lua
+ _G.Bypass_RRP_Admin_Kill_Logs = true -- disables admins kill logs in Russia RP
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Duderpast/ActiveProjects/main/Rp_Games/Loader.lua"))()
 ```
 
